@@ -1,5 +1,5 @@
 title: Mr. John
-logo: assets/Profile Pic new suit.jpeg
+#logo: assets/Profile Pic new suit.jpeg
 #Description: text below image
 #show_downloads: true
-theme: jerkll-them-minimal 
+theme: jekyll-theme-minimal 
