@@ -26,12 +26,15 @@ Freshman, Psychology Department at Loyola University Maryland
  - was used to help manage time effectively in a more organized way 
  - I used exal to creates this and different cells for total hours 
  - What challenged I faced was figuring out how to get the total hours I overcame this by changing time and time out to time. 
- - What i set out to achive was to make this nice and organized which I think I achieved 
+ - What i set out to achieve was to make this nice and organized which I think I achieved 
  - [insert project 2 screenshot here]
  - Project 2 Report
  - 
 ***
-## Project 3 Title
- - Project 3 Summary
+## Files & Directory Structure
+ - This project was done in OneDrive
+ - Was used to keep each classes assigment organized 
+ - For this project I didnt have any challenges creating each file 
+ - A resource I used was the videos given to us on how to do each step
+ - What i'd like to improve on is making the folder colors for each class different so that I dont put any assignment in the wrong folder.
  - [insert project 3 screenshot here]
- - Project 3 Report
