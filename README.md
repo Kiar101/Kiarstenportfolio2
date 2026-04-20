@@ -2,7 +2,7 @@
 # Kiarsten Henson
 Contact Info: [Kmhenson@loyola.edu]
 
-![IMG_3849_Original.jpg](Assets%20/IMG_3849_Original.jpg =100x150)
+!(Assets%20/IMG_3849_Original.jpg =100x150)
 
 ## About Me 
 [Fill in Madlibs here]
