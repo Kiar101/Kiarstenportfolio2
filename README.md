@@ -1,8 +1,8 @@
 # CS105/6/7/8 Portfolio
 # Kiarsten Henson
 Contact Info: [Kmhenson@loyola.edu]
-![Screenshot of Profile]()
-![IMG_3849_Original.jpg](Assets%20/IMG_3849_Original.jpg)
+
+![IMG_3849_Original.jpg](width=150 Assets%20/IMG_3849_Original.jpg)
 
 ## About Me 
 [Fill in Madlibs here]
