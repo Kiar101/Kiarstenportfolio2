@@ -14,6 +14,7 @@ Freshman, Psychology Department at Loyola University Maryland
 ## Projects
 
 ## Personality Test
+![img.png](img.png)  
 The personality test was where you could answer question to figure out what your personality type is. 
  - The Personality Test was done in Python 
  - Was used to help people determine their personality type
