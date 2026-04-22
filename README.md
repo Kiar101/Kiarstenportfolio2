@@ -1,5 +1,4 @@
 # CS105/6/7/8 Portfolio
-# Kiarsten Henson
 Contact Info: [Kmhenson@loyola.edu]
 
 
@@ -14,8 +13,9 @@ Freshman, Psychology Department at Loyola University Maryland
 ## Projects
 
 ## Personality Test
-![https://github.com/LoyolaUnivMD/sp26-cs105-python-final-project-Kiar101]
-The personality test was where you could answer question to figure out what your personality type is. 
+[Personality Test Link](https://github.com/LoyolaUnivMD/sp26-cs105-python-final-project-Kiar101)
+
+The Personality test was where you could answer question to figure out what your personality type is. 
  - The Personality Test was done in Python 
  - Was used to help people determine their personality type
  - Used Pycharm +Python+ Github to create this 
