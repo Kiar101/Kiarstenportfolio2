@@ -2,7 +2,6 @@
 # Kiarsten Henson
 Contact Info: [Kmhenson@loyola.edu]
 
-![IMG_3849_Original.jpg](Assets%20/IMG_3849_Original.jpg)
 
 ## About Me 
 Hello! I am an experienced IOP and psychology professional with over 1 year of experience, with skills in communication, patience, social collaboration, and adaptability. I am able to effectively support clients in therapeutic settings and achieve positive behavioral and emotional outcomes. I am adept at using electronic health record (EHR) systems, Microsoft Office Suite, and telehealth platforms.
