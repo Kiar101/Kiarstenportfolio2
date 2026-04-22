@@ -1,5 +1,5 @@
-# CS105/6/7/8 Portfolio
-Contact Info: Kmhenson@loyola.edu
+# Portfolio
+## Contact Info: Kmhenson@loyola.edu
 
 
 ## About Me 
@@ -14,7 +14,6 @@ Freshman, Psychology Department at Loyola University Maryland
 
 ## Personality Test
 [Personality Test Link](https://github.com/LoyolaUnivMD/sp26-cs105-python-final-project-Kiar101)
-
 The Personality test was where you could answer question to figure out what your personality type is. 
  - The Personality Test was done in Python 
  - Was used to help people determine their personality type
