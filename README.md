@@ -2,7 +2,7 @@
 # Kiarsten Henson
 Contact Info: [Kmhenson@loyola.edu]
 
-![<IMG src="assets/image.png" width="300">_3849_Original.jpg](Assets%20/IMG_3849_Original.jpg)
+![IMG_3849_Original.jpg](Assets%20/IMG_3849_Original.jpg)
 
 ## About Me 
 Hello! I am an experienced IOP and psychology professional with over 1 year of experience, with skills in communication, patience, social collaboration, and adaptability. I am able to effectively support clients in therapeutic settings and achieve positive behavioral and emotional outcomes. I am adept at using electronic health record (EHR) systems, Microsoft Office Suite, and telehealth platforms.
@@ -15,6 +15,7 @@ Freshman, Psychology Department at Loyola University Maryland
 ## Projects
 
 ## Personality Test
+The personality test was where you could answer question to figure out what your personality type is. 
  - The Personality Test was done in Python 
  - Was used to help people determine their personality type
  - Used Pycharm +Python+ Github to create this 
@@ -25,6 +26,7 @@ Freshman, Psychology Department at Loyola University Maryland
 
 ***
 ## Bi-Weekly Timesheet 
+The bi-weekly timesheet was where you create your work schedule in a more organized way so that you can be more efficient.
 [Bi-Weekly Timesheet Link](https://studentsloyola-my.sharepoint.com/:x:/r/personal/kmhenson_loyola_edu/Documents/Kiarsten_Exal%20Assessmnet_106_01_1pm.xlsx?d=w1e3e2fde4a724dd48109d25edf04701f&csf=1&web=1&e=TwilRS)
  - The Bi-weekly timesheet was done in Excel 
  - was used to help manage time effectively in a more organized way 
@@ -35,6 +37,7 @@ Freshman, Psychology Department at Loyola University Maryland
  ![Screenshot 2026-04-19 at 9.41.20 PM.png](Assets%20/Screenshot%202026-04-19%20at%209.41.20%E2%80%AFPM.png)
 ***
 ## Files & Directory Structure
+For this project I had to create a folder for each class to store my assignment in.  
 [Files & Directory Structure Link](https://studentsloyola-my.sharepoint.com/:f:/g/personal/kmhenson_loyola_edu/IgALDinl8nCkQopjvNgM9mSMARhM5DEqd0N-vpA8Bjxl5sc?email=cinweke%40loyola.edu&e=EyY90x)
  - This project was done in OneDrive
  - Was used to keep each classes assigment organized 
