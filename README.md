@@ -1,5 +1,5 @@
 # CS105/6/7/8 Portfolio
-Contact Info: [Kmhenson@loyola.edu]
+Contact Info: Kmhenson@loyola.edu
 
 
 ## About Me 
@@ -20,7 +20,6 @@ The Personality test was where you could answer question to figure out what your
  - Was used to help people determine their personality type
  - Used Pycharm +Python+ Github to create this 
  - I had an issue trying to figure out how each answer gets a scoring system i was able to figure out a way by using if statements
- ![Screenshot of Personality test]()
 ![Screenshot 2026-04-19 at 9.36.02 PM.png](Assets%20/Screenshot%202026-04-19%20at%209.36.02%E2%80%AFPM.png)
  
 
@@ -32,8 +31,7 @@ The bi-weekly timesheet was where you create your work schedule in a more organi
  - was used to help manage time effectively in a more organized way 
  - I used exal to creates this and different cells for the total hours 
  - What challenges I faced was figuring out how to get the total hours I overcame this by changing time in and time out to time from the general option. 
- - What I set out to achieve was to make this nice and organized which I think I achieved 
- ![Screenshot of Bi-Weekly Timesheet]()
+ - What I set out to achieve was to make this nice and organized which I think I achieved
  ![Screenshot 2026-04-19 at 9.41.20 PM.png](Assets%20/Screenshot%202026-04-19%20at%209.41.20%E2%80%AFPM.png)
 ***
 ## Files & Directory Structure
@@ -44,5 +42,4 @@ For this project I had to create a folder for each class to store my assignment 
  - For this project I didn't have any challenges creating each file 
  - A resource I used was the videos given to us on how to do each step
  - What i'd like to improve on is making the folder colors for each class different so that I don't put any assignment in the wrong folder.
- ![Screenshot of Files & Directory Structure]()
 ![Assessment2_CS  106.01_Making Sense of data_        SH102   .png](Assets%20/Assessment2_CS%20%20106.01_Making%20Sense%20of%20data_%20%20%20%20%20%20%20%20SH102%20%20%20.png)
