@@ -6,7 +6,7 @@ Contact Info: [Kmhenson@loyola.edu]
 
 ## About Me 
 Hello! I am an experienced IOP and psychology professional with over 1 year of experience, with skills in communication, patience, social collaboration, and adaptability. I am able to effectively support clients in therapeutic settings and achieve positive behavioral and emotional outcomes. I am adept at using electronic health record (EHR) systems, Microsoft Office Suite, and telehealth platforms.
-My well-rounded skill set, commitment to client-centered care, and passion for mental health advocacy make me a valuable asset. In my spare time, I like to read books and watch movies or shows. 
+My well-rounded skill set, commitment to client-centered care, and passion for mental health advocacy make me a valuable asset. In my spare time, I like to read books and watch movies or shows. You can find me on https://www.linkedin.com/in/kiarsten-henson/.
 
 
 ## Education
