@@ -1,5 +1,5 @@
 # Portfolio
-## Contact Info: Kmhenson@loyola.edu
+### Contact Info: Kmhenson@loyola.edu
 
 
 ## About Me 
